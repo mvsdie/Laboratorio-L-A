@@ -1,2 +1,2 @@
-# Laboratorio-L-A
+# Laboratorio-L&A
 PREPARACIÓN DE VERSIÓN
